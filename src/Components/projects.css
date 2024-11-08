@@ -1,0 +1,11 @@
+.card {
+    position: relative;
+    border: 2px solid transparent; /* Set transparent border */
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  .card:hover {
+    border-color: rgba(243, 156, 17, 0.877); /* Change border color on hover */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.7), /* Outer glow */
+                0 0 10px rgba(255, 255, 255, 0.5); /* Inner glow */
+  }
