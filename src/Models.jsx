@@ -5,8 +5,8 @@ export const projects = [
     {
         projectName : "My Portfolio",
         projectStack : "React & Tailwind CSS",
-        projectProdLink :"",
-        projectGitLink :"",
+        projectProdLink :"https://sonna-ajay.vercel.app/",
+        projectGitLink :"https://github.com/Ajay-Sonna/Portfolio.git",
         img:profileImg
 
     },
@@ -14,7 +14,7 @@ export const projects = [
         projectName : "FashionX",
         projectStack : "React & Tailwind CSS",
         projectProdLink :"https://fashion-x-ivory.vercel.app/",
-        projectGitLink :"",
+        projectGitLink :"https://github.com/Ajay-Sonna/FashionX.git",
         img: fashionImg
 
     },
