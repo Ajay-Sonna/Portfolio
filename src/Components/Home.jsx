@@ -21,7 +21,7 @@ const Home = () => {
         </h1>
         <p className="text-white">
           I am a versatile Full-stack developer with extensive experience in
-          building robust applications across various platforms
+          building robust applications across various platforms........
         </p>
         <div className="flex justify-center bg-yellow-400 md:w-1/3 rounded-md mt-5">
           <a href={resume} download="Ajay_Sonna_Resume.pdf">
